@@ -36,7 +36,7 @@
 # Service Comment
 - Để biết request đó gửi là gì, yêu cầu là gì và trả ra kết quả như thế nào
 
-# BC là lớp interface
+# Business Components là lớp interface
 - Khai báo phương thức
 # BCImpl
 - Dùng để implement các phương thức nằm trong BC đó
