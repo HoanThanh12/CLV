@@ -44,4 +44,13 @@
 - DBDAO dùng để tưởng tác đến database để xóa sửa thêm, ......
 - EAIDAO dùng để gửi mail, máy fax, upload file,...
 
+# HtmlAction
+- perform() : perform request
+- doStart()
+- doEnd()
 
+# Event
+- implement từ EventSupport
+- signOnUserAccount() : sign on user account and authentication and authorization
+- ConditionVO : Nhận request subject
+- VO Collection : Trả data cho request đó
